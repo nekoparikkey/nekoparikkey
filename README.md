@@ -2,6 +2,9 @@
 
 undefined developer from spb
 
+# ⚙️ my tech stack
+(https://skillicons.dev/icons?i=js,ts,html,css,php,py,docker,bash)]
+
 # 📫 connect with me
 telegram: [**@nekoparikkey**](https://t.me/nekoparikkey)  
 email: [**nekoparikkey@icloud.com**](mailto:nekoparikkey@icloud.com)  
