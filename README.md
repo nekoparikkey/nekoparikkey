@@ -3,7 +3,7 @@
 undefined developer from spb
 
 # ⚙️ my tech stack
-![frameworks](https://skillicons.dev/icons?i=js,ts,html,css,php,py,react.bash.docker.nginx)
+![frameworks](https://skillicons.dev/icons?i=js,ts,react,html,css,php,py,react.bash.docker.nginx)
 
 # 📫 connect with me
 telegram: [**@nekoparikkey**](https://t.me/nekoparikkey)  
