@@ -7,7 +7,7 @@
 ## `whoami`
 
 ```ts
-const nekoparikkey  = {
+const nekoparikkey = {
     alias: ["timofey", "undefined"],
     age: 15,
     birthday: "January, 13",
